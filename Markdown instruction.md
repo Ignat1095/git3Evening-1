@@ -67,4 +67,6 @@ __Пример__
 
 ![merge_delete](merge_delete.png)
 
-## Добавление файла.
+## Проверка статуса git.
+
+>команда _git status_ 
