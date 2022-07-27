@@ -80,6 +80,6 @@ __Пример__
 ![merge_delete2](merge_delete2.png) 
 
 ## Просмотр коммитов.
->Команда _git log_ не правильно 
-
-конфликт 
+>Команда _git log_ 
+прикрепил скрин конфликта 
+![conflict](conflict.png)
