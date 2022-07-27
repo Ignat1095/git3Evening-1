@@ -117,6 +117,8 @@ __Пример__
 
 команда _git log --graph_.
 
+Добавил скрин сливание/удаление 4.
+![merge_delete4](merge_delete4.png)
 
 
 
