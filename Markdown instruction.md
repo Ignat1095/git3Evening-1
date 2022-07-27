@@ -83,3 +83,6 @@ __Пример__
 >Команда _git log_ 
 прикрепил скрин конфликта 
 ![conflict](conflict.png)
+
+а так же прикрепил скрин сливания/удаления 3.
+![merge_delete3](merge_delete3.png) 
