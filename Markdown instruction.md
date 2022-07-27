@@ -80,4 +80,5 @@ __Пример__
 ![merge_delete2](merge_delete2.png) 
 
 ## Просмотр коммитов.
->Команда _git log_
+>Команда _git log_ правильно
+
